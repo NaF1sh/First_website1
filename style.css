@@ -75,6 +75,7 @@ section {
   border-image-slice: 1;
 }
 footer {
+  margin-top: 110px;
   text-align: center;
-  font color: gray;
+  font-size: 10px;
 }
